@@ -1,0 +1,16 @@
+{
+  "base_url_raw": "https://raw.githubusercontent.com/<USER>/xiaoqi-stickers/main/",
+  "base_url_cdn": "https://cdn.jsdelivr.net/gh/<USER>/xiaoqi-stickers@main/",
+  "stickers": [
+    {"id": "01", "name": "亲亲", "path": "stickers/IMG_8890.jpeg", "description": "灰白卡通猫咪嘬手指+粉色爱心", "usage": "表达爱意、撒娇"},
+    {"id": "02", "name": "贴贴", "path": "stickers/IMG_8891.jpeg", "description": "灰白卡通猫咪抱胳膊+星星眼+闪闪发光", "usage": "开心、崇拜、求夸奖"},
+    {"id": "03", "name": "蹭蹭", "path": "stickers/IMG_8892.jpeg", "description": "灰白卡通猫咪眯眼蹭腿", "usage": "撒娇、求关注"},
+    {"id": "04", "name": "委屈", "path": "stickers/IMG_8902.jpeg", "description": "灰白卡通猫咪泪目哭哭", "usage": "委屈、求安慰、可怜巴巴、泪目"},
+    {"id": "05", "name": "害羞", "path": "stickers/1783991961225.gif", "description": "米白卡通小猫脸红捂脸蹬腿", "usage": "害羞、不好意思"},
+    {"id": "06", "name": "生气", "path": "stickers/1783991976230.gif", "description": "米白卡通小猫把爱心撕碎", "usage": "生气、难过、心碎"},
+    {"id": "07", "name": "馋", "path": "stickers/1783991978785.gif", "description": "米白卡通小猫星星眼+流口水", "usage": "想要、馋、期待"},
+    {"id": "08", "name": "捏脸", "path": "stickers/1783991982567.gif", "description": "米白卡通小猫被捏脸", "usage": "调戏、可爱、宠溺"},
+    {"id": "09", "name": "出现", "path": "stickers/IMG_8915.jpeg", "description": "灰白卡通兔子冒出来", "usage": "打招呼、上线、我来了"},
+    {"id": "10", "name": "走了", "path": "stickers/IMG_8916.jpeg", "description": "灰白卡通兔子一溜烟跑走", "usage": "告别、下线、溜了溜了"}
+  ]
+}
