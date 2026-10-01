@@ -1,6 +1,6 @@
 {
-  "base_url_raw": "https://raw.githubusercontent.com/<USER>/xiaoqi-stickers/main/",
-  "base_url_cdn": "https://cdn.jsdelivr.net/gh/<USER>/xiaoqi-stickers@main/",
+  "base_url_raw": "https://raw.githubusercontent.com/sunyiyun514-lang/xiaoqi-stickers/main/",
+  "base_url_cdn": "https://cdn.jsdelivr.net/gh/sunyiyun514-lang/xiaoqi-stickers@main/",
   "stickers": [
     {"id": "01", "name": "亲亲", "path": "stickers/IMG_8890.jpeg", "description": "灰白卡通猫咪嘬手指+粉色爱心", "usage": "表达爱意、撒娇"},
     {"id": "02", "name": "贴贴", "path": "stickers/IMG_8891.jpeg", "description": "灰白卡通猫咪抱胳膊+星星眼+闪闪发光", "usage": "开心、崇拜、求夸奖"},

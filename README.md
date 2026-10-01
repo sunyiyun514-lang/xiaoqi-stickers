@@ -9,13 +9,13 @@
 Markdown 直接引用 raw 链接：
 
 ```
-![亲亲](https://raw.githubusercontent.com/<USER>/xiaoqi-stickers/main/stickers/IMG_8890.jpeg)
+![亲亲](https://raw.githubusercontent.com/sunyiyun514-lang/xiaoqi-stickers/main/stickers/IMG_8890.jpeg)
 ```
 
 或走 jsDelivr CDN：
 
 ```
-![亲亲](https://cdn.jsdelivr.net/gh/<USER>/xiaoqi-stickers@main/stickers/IMG_8890.jpeg)
+![亲亲](https://cdn.jsdelivr.net/gh/sunyiyun514-lang/xiaoqi-stickers@main/stickers/IMG_8890.jpeg)
 ```
 
 机器可读的清单见 `stickers.json`。
